@@ -1,0 +1,5 @@
+*.bin
+project.blif
+project.asc
+project.rpt
+
