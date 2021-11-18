@@ -1,3 +1,4 @@
+// code adopted from https://github.com/OLIMEX/iCE40HX1K-EVB/tree/master/demo/ice40hx1k-evb
 module top(                        //top module
     CLK,
     BUT1,
